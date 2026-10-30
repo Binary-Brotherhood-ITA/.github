@@ -2,9 +2,11 @@
 
 ### 💻 Code. Create. Collaborate. Repeat.
 
-Velkommen til **BinaryBrotherhood** – et fællesskab af nysgerrige IT-arkitektur-studerende fra **Erhvervsakademi Aarhus**.
+Velkommen til **BinaryBrotherhood** 
+Et fællesskab af nysgerrige IT-arkitektur-studerende fra **Erhvervsakademi Aarhus**.
 
-Vi deler en passion for teknologi, programmering og digital innovation. Her eksperimenterer vi med idéer, udforsker nye teknologier og omsætter teori til praktiske løsninger – én linje kode ad gangen.
+Vi deler en passion for teknologi, programmering og digital innovation. Her eksperimenterer vi med idéer, udforsker nye teknologier og omsætter teori til praktiske løsninger.
+én linje kode ad gangen...
 
 ### 🚀 What We Do
 
@@ -22,11 +24,12 @@ Vi arbejder med alt fra små kodeeksperimenter til større softwareprojekter og 
 
 Vores GitHub er vores digitale legeplads. Her samler vi studieprojekter, eksperimenter, kode og idéer fra vores rejse gennem IT-arkitekturuddannelsen.
 
-Vores store projekter ligger typisk herinde - ellers så send en mail/besked, fordi så ligger det på google drev.
+Vores store projekter ligger typisk herinde ellers så send en mail/besked, fordi så ligger det på google drev.
 
 Vi tror på, at den bedste måde at lære teknologi på er ved at bruge den, udfordre den og lære af hinanden.
 
-Vi er her ikke, fordi vi kan det hele – vi er her for at lære det.
+Vi er her ikke, fordi vi kan det hele.
+vi er her for at lære det.
 
 ### 🤝 The Brotherhood
 
